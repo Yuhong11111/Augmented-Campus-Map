@@ -33,4 +33,5 @@
 
 *Then, the processing will jump to Xcode. Sign into the Xcode account and make sure that an iPhone is connected to the computer. Finally, we can run the project, and it will download/update and open the app automatically on the connected iPhone. 
 
-![Screenshot](./image.jpeg)
+![Screenshot](./effect.PNG)
+![Screenshot](./direction.PNG)
